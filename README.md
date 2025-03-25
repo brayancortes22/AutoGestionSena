@@ -77,3 +77,4 @@
     ```bash
     npm run dev
     ```
+4. listo deberias de poder ver tu proyecto
